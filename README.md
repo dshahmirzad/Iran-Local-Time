@@ -1,6 +1,6 @@
 # Iran Time Extension
 
-![Logo](icons/icon128.png)
+![Logo](icons/screenshot.png)
 
 **Iran Time Extension** is a simple Google Chrome extension that displays the current local time in Iran. It updates the time every second and shows the current date in the popup.
 
