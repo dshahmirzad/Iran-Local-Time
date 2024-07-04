@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Iran Local Time",
     "description": "Shows the current local time in Iran.",
-    "version": "1.0",
+    "version": "1.1",
     "permissions": [
         "idle"
     ],
